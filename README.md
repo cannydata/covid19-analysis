@@ -5,4 +5,7 @@ Using data from OurWorldInData.com (https://ourworldindata.org/covid-deaths) loo
 Which countries have highest infection and death rates around the world?
 
 # Speed of Spread
-How fast did COVID-19 spread after first detected case
+How fast did COVID-19 spread after first detected case?
+
+# Speed of Vaccinations
+Which country had the fasted vaccination program?
